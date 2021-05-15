@@ -1,8 +1,10 @@
 ### Hi there Kyomu 👋
-![Kyomu's github stats](https://github-readme-stats.vercel.app/api?username=EnK1&show_icons=true&count_private=true&theme=vue-dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnK1&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnK1&layout=compact)](https://github.com/EnK1)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnK1&theme=vue-dark)](https://github.com/EnK1)
 <!--
 **EnK1/Enk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
