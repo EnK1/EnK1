@@ -1,4 +1,4 @@
-### Hi there Kyomu 👋
+### Hi there 👋
 
 ## 🔭I’m currently code with
 
